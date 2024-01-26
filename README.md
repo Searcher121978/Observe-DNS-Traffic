@@ -1,5 +1,5 @@
-#  Microsoft-Azure-Observe DNS Traffic (Video below)
- Microsoft-Azure-Observe DNS Traffic (Video below)
+#  Microsoft-Azure-Observe DNS Traffic 
+ Microsoft-Azure-Observe DNS Traffic 
 
 15. Back in Wireshark, filter for DNS traffic only
     
